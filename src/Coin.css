@@ -1,0 +1,10 @@
+.Coin-Body{
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.Coin-Body img{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+}
